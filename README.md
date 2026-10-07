@@ -86,6 +86,11 @@ API keys are never hard-coded. The modular package reads credentials from enviro
 
 The O*NET PDF is extracted, chunked, embedded with `all-MiniLM-L6-v2`, and searched using semantic similarity. Retrieved passages and page metadata are supplied as grounded context to the career research and final report stages.
 
+
+
+
+Submitted by: Shmookh Almoliafai — academy: @SDAIAAcademy
+
 ## Limitations
 
 Web and job-search results depend on external services and network availability. Estimated token cost is based on the pricing values configured in the project and may differ from actual billing. The O*NET PDF is a career-listing reference and does not replace live labor-market evidence.
